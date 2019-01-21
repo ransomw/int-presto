@@ -1,0 +1,7 @@
+# editor files usually aren't project-specific
+*~
+# python build artifacts
+*.pyc
+__py_cache__/
+# sqlite
+pi.db
